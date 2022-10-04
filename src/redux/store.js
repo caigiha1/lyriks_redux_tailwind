@@ -9,6 +9,7 @@ export const store = configureStore({
     player: playerReducer,
   },
 
-  middleware: (getDefaultMiddleware) =>
-    getDefaultMiddleware().concat(shazamCoreApi.middleware),
+  middleware: (getDefaultMiddleware) => {
+    return getDefaultMiddleware().concat(shazamCoreApi.middleware);
+  },
 });
