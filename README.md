@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application.
 
-Checkout here: https://magenta-dusk-b5e0b8.netlify.app/
+Checkout here: tmq-lyriks-app.netlify.app
 
 # Contributing
 
