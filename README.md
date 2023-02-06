@@ -2,7 +2,7 @@
 
 Develop an elegant React.js Music Application.
 
-Checkout here: tmq-lyriks-app.netlify.app
+Checkout here: https://master--benevolent-sunflower-73f220.netlify.app/
 
 # Contributing
 
